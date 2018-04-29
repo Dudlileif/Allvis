@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Game.qml</file>
+        <file>Home.qml</file>
+        <file>Info.qml</file>
+        <file>Jokes.qml</file>
+        <file>Weather.qml</file>
+        <file>News.qml</file>
+        <file>Poll.qml</file>
+        <file>Leaderboard.qml</file>
+        <file>Images/AdressaIconWhite.png</file>
+        <file>Images/Giraffe.png</file>
+        <file>Images/ROFL.png</file>
+        <file>Images/Sleeping.png</file>
+        <file>BestJoke.qml</file>
+        <file>main.cpp</file>
+        <file>pythongame.cpp</file>
+        <file>pythongame.h</file>
+        <file>Images/RightPointingArrow.svg</file>
+    </qresource>
+</RCC>
